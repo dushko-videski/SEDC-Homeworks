@@ -1,0 +1,13 @@
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Homeworks-Exercises\Class09.FileSystemIO.Exercise\Class09.FileSystemIO.Exercise\bin\Debug\netcoreapp3.1\Class09.FileSystemIO.Exercise.exe
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Homeworks-Exercises\Class09.FileSystemIO.Exercise\Class09.FileSystemIO.Exercise\bin\Debug\netcoreapp3.1\Class09.FileSystemIO.Exercise.deps.json
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Homeworks-Exercises\Class09.FileSystemIO.Exercise\Class09.FileSystemIO.Exercise\bin\Debug\netcoreapp3.1\Class09.FileSystemIO.Exercise.runtimeconfig.json
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Homeworks-Exercises\Class09.FileSystemIO.Exercise\Class09.FileSystemIO.Exercise\bin\Debug\netcoreapp3.1\Class09.FileSystemIO.Exercise.runtimeconfig.dev.json
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Homeworks-Exercises\Class09.FileSystemIO.Exercise\Class09.FileSystemIO.Exercise\bin\Debug\netcoreapp3.1\Class09.FileSystemIO.Exercise.dll
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Homeworks-Exercises\Class09.FileSystemIO.Exercise\Class09.FileSystemIO.Exercise\bin\Debug\netcoreapp3.1\Class09.FileSystemIO.Exercise.pdb
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Homeworks-Exercises\Class09.FileSystemIO.Exercise\Class09.FileSystemIO.Exercise\obj\Debug\netcoreapp3.1\Class09.FileSystemIO.Exercise.csprojAssemblyReference.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Homeworks-Exercises\Class09.FileSystemIO.Exercise\Class09.FileSystemIO.Exercise\obj\Debug\netcoreapp3.1\Class09.FileSystemIO.Exercise.AssemblyInfoInputs.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Homeworks-Exercises\Class09.FileSystemIO.Exercise\Class09.FileSystemIO.Exercise\obj\Debug\netcoreapp3.1\Class09.FileSystemIO.Exercise.AssemblyInfo.cs
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Homeworks-Exercises\Class09.FileSystemIO.Exercise\Class09.FileSystemIO.Exercise\obj\Debug\netcoreapp3.1\Class09.FileSystemIO.Exercise.csproj.CoreCompileInputs.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Homeworks-Exercises\Class09.FileSystemIO.Exercise\Class09.FileSystemIO.Exercise\obj\Debug\netcoreapp3.1\Class09.FileSystemIO.Exercise.dll
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Homeworks-Exercises\Class09.FileSystemIO.Exercise\Class09.FileSystemIO.Exercise\obj\Debug\netcoreapp3.1\Class09.FileSystemIO.Exercise.pdb
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Homeworks-Exercises\Class09.FileSystemIO.Exercise\Class09.FileSystemIO.Exercise\obj\Debug\netcoreapp3.1\Class09.FileSystemIO.Exercise.genruntimeconfig.cache

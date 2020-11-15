@@ -1,0 +1,9 @@
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Test homework\Test 2\Test2 ClassLibrary\bin\Debug\netcoreapp3.1\Test2 ClassLibrary.deps.json
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Test homework\Test 2\Test2 ClassLibrary\bin\Debug\netcoreapp3.1\Test2 ClassLibrary.dll
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Test homework\Test 2\Test2 ClassLibrary\bin\Debug\netcoreapp3.1\Test2 ClassLibrary.pdb
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Test homework\Test 2\Test2 ClassLibrary\obj\Debug\netcoreapp3.1\Test2 ClassLibrary.csprojAssemblyReference.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Test homework\Test 2\Test2 ClassLibrary\obj\Debug\netcoreapp3.1\Test2 ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Test homework\Test 2\Test2 ClassLibrary\obj\Debug\netcoreapp3.1\Test2 ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Test homework\Test 2\Test2 ClassLibrary\obj\Debug\netcoreapp3.1\Test2 ClassLibrary.AssemblyInfo.cs
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Test homework\Test 2\Test2 ClassLibrary\obj\Debug\netcoreapp3.1\Test2 ClassLibrary.dll
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Test homework\Test 2\Test2 ClassLibrary\obj\Debug\netcoreapp3.1\Test2 ClassLibrary.pdb

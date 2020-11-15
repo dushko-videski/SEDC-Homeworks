@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "e8mM49pyH03e68WXdosjpnT9Phjlcaqfk6KcbaaEm41CfLADb2MMpC9Ar6Ac09QCyLpEXKCBzx/hQTFmLqnCMw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dushk\\OneDrive\\Desktop\\SEAVUS\\C# Advance\\Homeworks-Exercises\\Class11.Exercise.SerializingDeserializing\\Class11.Exercise\\Class12.Exercise.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dushk\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

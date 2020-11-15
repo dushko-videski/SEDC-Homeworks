@@ -1,0 +1,26 @@
+C:\Users\dushk\source\repos\ManagingResources\NullableTypes\bin\Debug\netcoreapp3.1\NullableTypes.exe
+C:\Users\dushk\source\repos\ManagingResources\NullableTypes\bin\Debug\netcoreapp3.1\NullableTypes.deps.json
+C:\Users\dushk\source\repos\ManagingResources\NullableTypes\bin\Debug\netcoreapp3.1\NullableTypes.runtimeconfig.json
+C:\Users\dushk\source\repos\ManagingResources\NullableTypes\bin\Debug\netcoreapp3.1\NullableTypes.runtimeconfig.dev.json
+C:\Users\dushk\source\repos\ManagingResources\NullableTypes\bin\Debug\netcoreapp3.1\NullableTypes.dll
+C:\Users\dushk\source\repos\ManagingResources\NullableTypes\bin\Debug\netcoreapp3.1\NullableTypes.pdb
+C:\Users\dushk\source\repos\ManagingResources\NullableTypes\obj\Debug\netcoreapp3.1\NullableTypes.csprojAssemblyReference.cache
+C:\Users\dushk\source\repos\ManagingResources\NullableTypes\obj\Debug\netcoreapp3.1\NullableTypes.AssemblyInfoInputs.cache
+C:\Users\dushk\source\repos\ManagingResources\NullableTypes\obj\Debug\netcoreapp3.1\NullableTypes.AssemblyInfo.cs
+C:\Users\dushk\source\repos\ManagingResources\NullableTypes\obj\Debug\netcoreapp3.1\NullableTypes.csproj.CoreCompileInputs.cache
+C:\Users\dushk\source\repos\ManagingResources\NullableTypes\obj\Debug\netcoreapp3.1\NullableTypes.dll
+C:\Users\dushk\source\repos\ManagingResources\NullableTypes\obj\Debug\netcoreapp3.1\NullableTypes.pdb
+C:\Users\dushk\source\repos\ManagingResources\NullableTypes\obj\Debug\netcoreapp3.1\NullableTypes.genruntimeconfig.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Homeworks-Exercises\Class10.HeapStackDesposingNullables\NullableTypes\bin\Debug\netcoreapp3.1\NullableTypes.exe
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Homeworks-Exercises\Class10.HeapStackDesposingNullables\NullableTypes\bin\Debug\netcoreapp3.1\NullableTypes.deps.json
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Homeworks-Exercises\Class10.HeapStackDesposingNullables\NullableTypes\bin\Debug\netcoreapp3.1\NullableTypes.runtimeconfig.json
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Homeworks-Exercises\Class10.HeapStackDesposingNullables\NullableTypes\bin\Debug\netcoreapp3.1\NullableTypes.runtimeconfig.dev.json
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Homeworks-Exercises\Class10.HeapStackDesposingNullables\NullableTypes\bin\Debug\netcoreapp3.1\NullableTypes.dll
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Homeworks-Exercises\Class10.HeapStackDesposingNullables\NullableTypes\bin\Debug\netcoreapp3.1\NullableTypes.pdb
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Homeworks-Exercises\Class10.HeapStackDesposingNullables\NullableTypes\obj\Debug\netcoreapp3.1\NullableTypes.AssemblyInfoInputs.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Homeworks-Exercises\Class10.HeapStackDesposingNullables\NullableTypes\obj\Debug\netcoreapp3.1\NullableTypes.AssemblyInfo.cs
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Homeworks-Exercises\Class10.HeapStackDesposingNullables\NullableTypes\obj\Debug\netcoreapp3.1\NullableTypes.csproj.CoreCompileInputs.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Homeworks-Exercises\Class10.HeapStackDesposingNullables\NullableTypes\obj\Debug\netcoreapp3.1\NullableTypes.dll
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Homeworks-Exercises\Class10.HeapStackDesposingNullables\NullableTypes\obj\Debug\netcoreapp3.1\NullableTypes.pdb
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Homeworks-Exercises\Class10.HeapStackDesposingNullables\NullableTypes\obj\Debug\netcoreapp3.1\NullableTypes.genruntimeconfig.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Homeworks-Exercises\Class10.HeapStackDesposingNullables\NullableTypes\obj\Debug\netcoreapp3.1\NullableTypes.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Homework form g6 Class08\Homework G6 Class08\Homework G6 Class08\bin\Debug\netcoreapp3.1\Homework G6 Class08.exe
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Homework form g6 Class08\Homework G6 Class08\Homework G6 Class08\bin\Debug\netcoreapp3.1\Homework G6 Class08.deps.json
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Homework form g6 Class08\Homework G6 Class08\Homework G6 Class08\bin\Debug\netcoreapp3.1\Homework G6 Class08.runtimeconfig.json
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Homework form g6 Class08\Homework G6 Class08\Homework G6 Class08\bin\Debug\netcoreapp3.1\Homework G6 Class08.runtimeconfig.dev.json
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Homework form g6 Class08\Homework G6 Class08\Homework G6 Class08\bin\Debug\netcoreapp3.1\Homework G6 Class08.dll
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Homework form g6 Class08\Homework G6 Class08\Homework G6 Class08\bin\Debug\netcoreapp3.1\Homework G6 Class08.pdb
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Homework form g6 Class08\Homework G6 Class08\Homework G6 Class08\obj\Debug\netcoreapp3.1\Homework G6 Class08.csproj.CoreCompileInputs.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Homework form g6 Class08\Homework G6 Class08\Homework G6 Class08\obj\Debug\netcoreapp3.1\Homework G6 Class08.AssemblyInfoInputs.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Homework form g6 Class08\Homework G6 Class08\Homework G6 Class08\obj\Debug\netcoreapp3.1\Homework G6 Class08.AssemblyInfo.cs
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Homework form g6 Class08\Homework G6 Class08\Homework G6 Class08\obj\Debug\netcoreapp3.1\Homework G6 Class08.dll
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Homework form g6 Class08\Homework G6 Class08\Homework G6 Class08\obj\Debug\netcoreapp3.1\Homework G6 Class08.pdb
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Homework form g6 Class08\Homework G6 Class08\Homework G6 Class08\obj\Debug\netcoreapp3.1\Homework G6 Class08.genruntimeconfig.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Homework form g6 Class08\Homework G6 Class08\Homework G6 Class08\obj\Debug\netcoreapp3.1\Homework G6 Class08.csprojAssemblyReference.cache

@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Digitron/1.0.0": {
+        "dependencies": {
+          "Class11 Calculator-ClassLibrary": "1.0.0.0"
+        },
+        "runtime": {
+          "Digitron.dll": {}
+        }
+      },
+      "Class11 Calculator-ClassLibrary/1.0.0.0": {
+        "runtime": {
+          "Class11 Calculator-ClassLibrary.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Digitron/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Class11 Calculator-ClassLibrary/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

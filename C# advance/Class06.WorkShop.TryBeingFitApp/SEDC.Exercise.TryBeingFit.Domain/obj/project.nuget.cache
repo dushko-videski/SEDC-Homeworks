@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9mMnsQ2+0y/3wxbDUz75YbmnFVfT+9K8a5AWcSYTydgEsWxfld/DP1EFI89UYwIpgLRdUJFEfED3DIzfbILn3w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dushk\\OneDrive\\Desktop\\SEAVUS\\C# Advance\\Homeworks-Exercises\\Class06.WorkShop.TryBeingFitApp\\SEDC.Exercise.TryBeingFit.Domain\\SEDC.Exercise.TryBeingFit.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dushk\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\dushk\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

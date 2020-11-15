@@ -1,0 +1,17 @@
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\skwd8-05-oopcsharp\g1\Class13Prep\TeamSource\TeamSource\bin\Debug\netcoreapp3.1\TeamSource.deps.json
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\skwd8-05-oopcsharp\g1\Class13Prep\TeamSource\TeamSource\bin\Debug\netcoreapp3.1\TeamSource.dll
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\skwd8-05-oopcsharp\g1\Class13Prep\TeamSource\TeamSource\bin\Debug\netcoreapp3.1\TeamSource.pdb
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\skwd8-05-oopcsharp\g1\Class13Prep\TeamSource\TeamSource\obj\Debug\netcoreapp3.1\TeamSource.csprojAssemblyReference.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\skwd8-05-oopcsharp\g1\Class13Prep\TeamSource\TeamSource\obj\Debug\netcoreapp3.1\TeamSource.csproj.CoreCompileInputs.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\skwd8-05-oopcsharp\g1\Class13Prep\TeamSource\TeamSource\obj\Debug\netcoreapp3.1\TeamSource.AssemblyInfoInputs.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\skwd8-05-oopcsharp\g1\Class13Prep\TeamSource\TeamSource\obj\Debug\netcoreapp3.1\TeamSource.AssemblyInfo.cs
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\skwd8-05-oopcsharp\g1\Class13Prep\TeamSource\TeamSource\obj\Debug\netcoreapp3.1\TeamSource.dll
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\skwd8-05-oopcsharp\g1\Class13Prep\TeamSource\TeamSource\obj\Debug\netcoreapp3.1\TeamSource.pdb
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Last-Homeworks\Class13 NBA Teams\TeamSource\obj\Debug\netcoreapp3.1\TeamSource.csproj.CoreCompileInputs.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Last-Homeworks\Class13 NBA Teams\TeamSource\obj\Debug\netcoreapp3.1\TeamSource.AssemblyInfoInputs.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Last-Homeworks\Class13 NBA Teams\TeamSource\obj\Debug\netcoreapp3.1\TeamSource.AssemblyInfo.cs
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Last-Homeworks\Class13 NBA Teams\TeamSource\obj\Debug\netcoreapp3.1\TeamSource.dll
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Last-Homeworks\Class13 NBA Teams\TeamSource\obj\Debug\netcoreapp3.1\TeamSource.pdb
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Last-Homeworks\Class13 NBA Teams\TeamSource\bin\Debug\netcoreapp3.1\TeamSource.deps.json
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Last-Homeworks\Class13 NBA Teams\TeamSource\bin\Debug\netcoreapp3.1\TeamSource.dll
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Last-Homeworks\Class13 NBA Teams\TeamSource\bin\Debug\netcoreapp3.1\TeamSource.pdb

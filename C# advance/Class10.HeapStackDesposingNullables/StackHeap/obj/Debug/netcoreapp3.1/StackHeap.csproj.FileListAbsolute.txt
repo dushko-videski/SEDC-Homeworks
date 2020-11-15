@@ -1,0 +1,38 @@
+C:\Users\dushk\source\repos\ManagingResources\StackHeap\bin\Debug\netcoreapp3.1\StackHeap.exe
+C:\Users\dushk\source\repos\ManagingResources\StackHeap\bin\Debug\netcoreapp3.1\StackHeap.deps.json
+C:\Users\dushk\source\repos\ManagingResources\StackHeap\bin\Debug\netcoreapp3.1\StackHeap.runtimeconfig.json
+C:\Users\dushk\source\repos\ManagingResources\StackHeap\bin\Debug\netcoreapp3.1\StackHeap.runtimeconfig.dev.json
+C:\Users\dushk\source\repos\ManagingResources\StackHeap\bin\Debug\netcoreapp3.1\StackHeap.dll
+C:\Users\dushk\source\repos\ManagingResources\StackHeap\bin\Debug\netcoreapp3.1\StackHeap.pdb
+C:\Users\dushk\source\repos\ManagingResources\StackHeap\obj\Debug\netcoreapp3.1\StackHeap.csprojAssemblyReference.cache
+C:\Users\dushk\source\repos\ManagingResources\StackHeap\obj\Debug\netcoreapp3.1\StackHeap.AssemblyInfoInputs.cache
+C:\Users\dushk\source\repos\ManagingResources\StackHeap\obj\Debug\netcoreapp3.1\StackHeap.AssemblyInfo.cs
+C:\Users\dushk\source\repos\ManagingResources\StackHeap\obj\Debug\netcoreapp3.1\StackHeap.csproj.CoreCompileInputs.cache
+C:\Users\dushk\source\repos\ManagingResources\StackHeap\obj\Debug\netcoreapp3.1\StackHeap.dll
+C:\Users\dushk\source\repos\ManagingResources\StackHeap\obj\Debug\netcoreapp3.1\StackHeap.pdb
+C:\Users\dushk\source\repos\ManagingResources\StackHeap\obj\Debug\netcoreapp3.1\StackHeap.genruntimeconfig.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Class10.HeapStackDesposingNullables\StackHeap\bin\Debug\netcoreapp3.1\StackHeap.exe
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Class10.HeapStackDesposingNullables\StackHeap\bin\Debug\netcoreapp3.1\StackHeap.deps.json
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Class10.HeapStackDesposingNullables\StackHeap\bin\Debug\netcoreapp3.1\StackHeap.runtimeconfig.json
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Class10.HeapStackDesposingNullables\StackHeap\bin\Debug\netcoreapp3.1\StackHeap.runtimeconfig.dev.json
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Class10.HeapStackDesposingNullables\StackHeap\bin\Debug\netcoreapp3.1\StackHeap.dll
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Class10.HeapStackDesposingNullables\StackHeap\bin\Debug\netcoreapp3.1\StackHeap.pdb
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Class10.HeapStackDesposingNullables\StackHeap\obj\Debug\netcoreapp3.1\StackHeap.csprojAssemblyReference.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Class10.HeapStackDesposingNullables\StackHeap\obj\Debug\netcoreapp3.1\StackHeap.AssemblyInfoInputs.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Class10.HeapStackDesposingNullables\StackHeap\obj\Debug\netcoreapp3.1\StackHeap.AssemblyInfo.cs
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Class10.HeapStackDesposingNullables\StackHeap\obj\Debug\netcoreapp3.1\StackHeap.csproj.CoreCompileInputs.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Class10.HeapStackDesposingNullables\StackHeap\obj\Debug\netcoreapp3.1\StackHeap.dll
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Class10.HeapStackDesposingNullables\StackHeap\obj\Debug\netcoreapp3.1\StackHeap.pdb
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Class10.HeapStackDesposingNullables\StackHeap\obj\Debug\netcoreapp3.1\StackHeap.genruntimeconfig.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Homeworks-Exercises\Class10.HeapStackDesposingNullables\StackHeap\bin\Debug\netcoreapp3.1\StackHeap.exe
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Homeworks-Exercises\Class10.HeapStackDesposingNullables\StackHeap\bin\Debug\netcoreapp3.1\StackHeap.deps.json
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Homeworks-Exercises\Class10.HeapStackDesposingNullables\StackHeap\bin\Debug\netcoreapp3.1\StackHeap.runtimeconfig.json
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Homeworks-Exercises\Class10.HeapStackDesposingNullables\StackHeap\bin\Debug\netcoreapp3.1\StackHeap.runtimeconfig.dev.json
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Homeworks-Exercises\Class10.HeapStackDesposingNullables\StackHeap\bin\Debug\netcoreapp3.1\StackHeap.dll
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Homeworks-Exercises\Class10.HeapStackDesposingNullables\StackHeap\bin\Debug\netcoreapp3.1\StackHeap.pdb
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Homeworks-Exercises\Class10.HeapStackDesposingNullables\StackHeap\obj\Debug\netcoreapp3.1\StackHeap.AssemblyInfoInputs.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Homeworks-Exercises\Class10.HeapStackDesposingNullables\StackHeap\obj\Debug\netcoreapp3.1\StackHeap.AssemblyInfo.cs
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Homeworks-Exercises\Class10.HeapStackDesposingNullables\StackHeap\obj\Debug\netcoreapp3.1\StackHeap.csproj.CoreCompileInputs.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Homeworks-Exercises\Class10.HeapStackDesposingNullables\StackHeap\obj\Debug\netcoreapp3.1\StackHeap.dll
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Homeworks-Exercises\Class10.HeapStackDesposingNullables\StackHeap\obj\Debug\netcoreapp3.1\StackHeap.pdb
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Homeworks-Exercises\Class10.HeapStackDesposingNullables\StackHeap\obj\Debug\netcoreapp3.1\StackHeap.genruntimeconfig.cache

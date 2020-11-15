@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SEDC.Exercise.TryBeingFitApp/1.0.0": {
+        "dependencies": {
+          "SEDC.Exercise.TryBeingFit.Services": "1.0.0"
+        },
+        "runtime": {
+          "SEDC.Exercise.TryBeingFitApp.dll": {}
+        }
+      },
+      "SEDC.Exercise.TryBeingFit.Domain/1.0.0": {
+        "runtime": {
+          "SEDC.Exercise.TryBeingFit.Domain.dll": {}
+        }
+      },
+      "SEDC.Exercise.TryBeingFit.Services/1.0.0": {
+        "dependencies": {
+          "SEDC.Exercise.TryBeingFit.Domain": "1.0.0"
+        },
+        "runtime": {
+          "SEDC.Exercise.TryBeingFit.Services.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SEDC.Exercise.TryBeingFitApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SEDC.Exercise.TryBeingFit.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SEDC.Exercise.TryBeingFit.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

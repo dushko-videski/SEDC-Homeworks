@@ -1,0 +1,6 @@
+{"Name":"sharko","Age":5,"Color":"brown"}
+{"Name":"blacky","Age":3,"Color":"black"}
+{"Name":"pluto","Age":1,"Color":"yellow"}
+{"Name":"sparky","Age":10,"Color":"white"}
+{"Name":"lajka","Age":2,"Color":"grey"}
+{"Name":"Aron","Age":8,"Color":"black and white"}

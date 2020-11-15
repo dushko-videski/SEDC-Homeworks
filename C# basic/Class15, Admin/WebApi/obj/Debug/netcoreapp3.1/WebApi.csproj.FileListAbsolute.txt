@@ -1,0 +1,8 @@
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Last-Homeworks\Class15, Admin\WebApi\bin\Debug\netcoreapp3.1\WebApi.deps.json
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Last-Homeworks\Class15, Admin\WebApi\bin\Debug\netcoreapp3.1\WebApi.dll
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Last-Homeworks\Class15, Admin\WebApi\bin\Debug\netcoreapp3.1\WebApi.pdb
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Last-Homeworks\Class15, Admin\WebApi\obj\Debug\netcoreapp3.1\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Last-Homeworks\Class15, Admin\WebApi\obj\Debug\netcoreapp3.1\WebApi.AssemblyInfoInputs.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Last-Homeworks\Class15, Admin\WebApi\obj\Debug\netcoreapp3.1\WebApi.AssemblyInfo.cs
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Last-Homeworks\Class15, Admin\WebApi\obj\Debug\netcoreapp3.1\WebApi.dll
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Last-Homeworks\Class15, Admin\WebApi\obj\Debug\netcoreapp3.1\WebApi.pdb

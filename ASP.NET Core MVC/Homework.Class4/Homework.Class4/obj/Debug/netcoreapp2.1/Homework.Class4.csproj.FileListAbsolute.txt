@@ -1,0 +1,72 @@
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\7.ASP.NET Core\Homeworks-Asp.Net-Core\Homework.Class4\Homework.Class4\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\7.ASP.NET Core\Homeworks-Asp.Net-Core\Homework.Class4\Homework.Class4\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\7.ASP.NET Core\Homeworks-Asp.Net-Core\Homework.Class4\Homework.Class4\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\7.ASP.NET Core\Homeworks-Asp.Net-Core\Homework.Class4\Homework.Class4\bin\Debug\netcoreapp2.1\Homework.Class4.deps.json
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\7.ASP.NET Core\Homeworks-Asp.Net-Core\Homework.Class4\Homework.Class4\bin\Debug\netcoreapp2.1\Homework.Class4.runtimeconfig.json
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\7.ASP.NET Core\Homeworks-Asp.Net-Core\Homework.Class4\Homework.Class4\bin\Debug\netcoreapp2.1\Homework.Class4.runtimeconfig.dev.json
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\7.ASP.NET Core\Homeworks-Asp.Net-Core\Homework.Class4\Homework.Class4\bin\Debug\netcoreapp2.1\Homework.Class4.dll
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\7.ASP.NET Core\Homeworks-Asp.Net-Core\Homework.Class4\Homework.Class4\obj\Debug\netcoreapp2.1\Homework.Class4.csprojAssemblyReference.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\7.ASP.NET Core\Homeworks-Asp.Net-Core\Homework.Class4\Homework.Class4\obj\Debug\netcoreapp2.1\Homework.Class4.AssemblyInfoInputs.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\7.ASP.NET Core\Homeworks-Asp.Net-Core\Homework.Class4\Homework.Class4\obj\Debug\netcoreapp2.1\Homework.Class4.AssemblyInfo.cs
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\7.ASP.NET Core\Homeworks-Asp.Net-Core\Homework.Class4\Homework.Class4\obj\Debug\netcoreapp2.1\Homework.Class4.RazorAssemblyInfo.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\7.ASP.NET Core\Homeworks-Asp.Net-Core\Homework.Class4\Homework.Class4\obj\Debug\netcoreapp2.1\Homework.Class4.RazorAssemblyInfo.cs
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\7.ASP.NET Core\Homeworks-Asp.Net-Core\Homework.Class4\Homework.Class4\obj\Debug\netcoreapp2.1\Homework.Class4.TagHelpers.input.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\7.ASP.NET Core\Homeworks-Asp.Net-Core\Homework.Class4\Homework.Class4\obj\Debug\netcoreapp2.1\Homework.Class4.TagHelpers.output.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\7.ASP.NET Core\Homeworks-Asp.Net-Core\Homework.Class4\Homework.Class4\obj\Debug\netcoreapp2.1\Homework.Class4.RazorCoreGenerate.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\7.ASP.NET Core\Homeworks-Asp.Net-Core\Homework.Class4\Homework.Class4\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\7.ASP.NET Core\Homeworks-Asp.Net-Core\Homework.Class4\Homework.Class4\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\7.ASP.NET Core\Homeworks-Asp.Net-Core\Homework.Class4\Homework.Class4\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\7.ASP.NET Core\Homeworks-Asp.Net-Core\Homework.Class4\Homework.Class4\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\7.ASP.NET Core\Homeworks-Asp.Net-Core\Homework.Class4\Homework.Class4\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\7.ASP.NET Core\Homeworks-Asp.Net-Core\Homework.Class4\Homework.Class4\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\7.ASP.NET Core\Homeworks-Asp.Net-Core\Homework.Class4\Homework.Class4\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\7.ASP.NET Core\Homeworks-Asp.Net-Core\Homework.Class4\Homework.Class4\obj\Debug\netcoreapp2.1\Homework.Class4.RazorTargetAssemblyInfo.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\7.ASP.NET Core\Homeworks-Asp.Net-Core\Homework.Class4\Homework.Class4\obj\Debug\netcoreapp2.1\Homework.Class4.RazorTargetAssemblyInfo.cs
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\7.ASP.NET Core\Homeworks-Asp.Net-Core\Homework.Class4\Homework.Class4\obj\Debug\netcoreapp2.1\Homework.Class4.genruntimeconfig.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\7.ASP.NET Core\Homeworks-Asp.Net-Core\Homework.Class4\Homework.Class4\bin\Debug\netcoreapp2.1\Homework.Class4.pdb
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\7.ASP.NET Core\Homeworks-Asp.Net-Core\Homework.Class4\Homework.Class4\bin\Debug\netcoreapp2.1\Homework.Class4.Views.dll
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\7.ASP.NET Core\Homeworks-Asp.Net-Core\Homework.Class4\Homework.Class4\bin\Debug\netcoreapp2.1\Homework.Class4.Views.pdb
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\7.ASP.NET Core\Homeworks-Asp.Net-Core\Homework.Class4\Homework.Class4\obj\Debug\netcoreapp2.1\Homework.Class4.csproj.CoreCompileInputs.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\7.ASP.NET Core\Homeworks-Asp.Net-Core\Homework.Class4\Homework.Class4\obj\Debug\netcoreapp2.1\Homework.Class4.Views.pdb
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\7.ASP.NET Core\Homeworks-Asp.Net-Core\Homework.Class4\Homework.Class4\obj\Debug\netcoreapp2.1\Homework.Class4.dll
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\7.ASP.NET Core\Homeworks-Asp.Net-Core\Homework.Class4\Homework.Class4\obj\Debug\netcoreapp2.1\Homework.Class4.pdb
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\7.ASP.NET Core\Homeworks-Asp.Net-Core\Homework.Class4\Homework.Class4\obj\Debug\netcoreapp2.1\Homework.Class4.csproj.CopyComplete
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\7.ASP.NET Core\Homeworks-Asp.Net-Core\Homework.Class4\Homework.Class4\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CustomLayout.cshtml.g.cs
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\7.ASP.NET Core\Homeworks-Asp.Net-Core\Homework.Class4\Homework.Class4\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_PartialProductItem.cshtml.g.cs
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\7.ASP.NET Core\Homeworks-Asp.Net-Core\Homework.Class4\Homework.Class4\obj\Debug\netcoreapp2.1\Razor\Views\Product\CreateProduct.cshtml.g.cs
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\7.ASP.NET Core MVC\Homeworks-Asp.Net Core MVC\Homework.Class4\Homework.Class4\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\7.ASP.NET Core MVC\Homeworks-Asp.Net Core MVC\Homework.Class4\Homework.Class4\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\7.ASP.NET Core MVC\Homeworks-Asp.Net Core MVC\Homework.Class4\Homework.Class4\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\7.ASP.NET Core MVC\Homeworks-Asp.Net Core MVC\Homework.Class4\Homework.Class4\bin\Debug\netcoreapp2.1\Homework.Class4.deps.json
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\7.ASP.NET Core MVC\Homeworks-Asp.Net Core MVC\Homework.Class4\Homework.Class4\bin\Debug\netcoreapp2.1\Homework.Class4.runtimeconfig.json
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\7.ASP.NET Core MVC\Homeworks-Asp.Net Core MVC\Homework.Class4\Homework.Class4\bin\Debug\netcoreapp2.1\Homework.Class4.runtimeconfig.dev.json
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\7.ASP.NET Core MVC\Homeworks-Asp.Net Core MVC\Homework.Class4\Homework.Class4\bin\Debug\netcoreapp2.1\Homework.Class4.dll
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\7.ASP.NET Core MVC\Homeworks-Asp.Net Core MVC\Homework.Class4\Homework.Class4\bin\Debug\netcoreapp2.1\Homework.Class4.pdb
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\7.ASP.NET Core MVC\Homeworks-Asp.Net Core MVC\Homework.Class4\Homework.Class4\bin\Debug\netcoreapp2.1\Homework.Class4.Views.dll
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\7.ASP.NET Core MVC\Homeworks-Asp.Net Core MVC\Homework.Class4\Homework.Class4\bin\Debug\netcoreapp2.1\Homework.Class4.Views.pdb
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\7.ASP.NET Core MVC\Homeworks-Asp.Net Core MVC\Homework.Class4\Homework.Class4\obj\Debug\netcoreapp2.1\Homework.Class4.csprojAssemblyReference.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\7.ASP.NET Core MVC\Homeworks-Asp.Net Core MVC\Homework.Class4\Homework.Class4\obj\Debug\netcoreapp2.1\Homework.Class4.AssemblyInfoInputs.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\7.ASP.NET Core MVC\Homeworks-Asp.Net Core MVC\Homework.Class4\Homework.Class4\obj\Debug\netcoreapp2.1\Homework.Class4.AssemblyInfo.cs
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\7.ASP.NET Core MVC\Homeworks-Asp.Net Core MVC\Homework.Class4\Homework.Class4\obj\Debug\netcoreapp2.1\Homework.Class4.RazorAssemblyInfo.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\7.ASP.NET Core MVC\Homeworks-Asp.Net Core MVC\Homework.Class4\Homework.Class4\obj\Debug\netcoreapp2.1\Homework.Class4.RazorAssemblyInfo.cs
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\7.ASP.NET Core MVC\Homeworks-Asp.Net Core MVC\Homework.Class4\Homework.Class4\obj\Debug\netcoreapp2.1\Homework.Class4.TagHelpers.input.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\7.ASP.NET Core MVC\Homeworks-Asp.Net Core MVC\Homework.Class4\Homework.Class4\obj\Debug\netcoreapp2.1\Homework.Class4.TagHelpers.output.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\7.ASP.NET Core MVC\Homeworks-Asp.Net Core MVC\Homework.Class4\Homework.Class4\obj\Debug\netcoreapp2.1\Homework.Class4.RazorCoreGenerate.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\7.ASP.NET Core MVC\Homeworks-Asp.Net Core MVC\Homework.Class4\Homework.Class4\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\7.ASP.NET Core MVC\Homeworks-Asp.Net Core MVC\Homework.Class4\Homework.Class4\obj\Debug\netcoreapp2.1\Razor\Views\Product\CreateProduct.cshtml.g.cs
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\7.ASP.NET Core MVC\Homeworks-Asp.Net Core MVC\Homework.Class4\Homework.Class4\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\7.ASP.NET Core MVC\Homeworks-Asp.Net Core MVC\Homework.Class4\Homework.Class4\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\7.ASP.NET Core MVC\Homeworks-Asp.Net Core MVC\Homework.Class4\Homework.Class4\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CustomLayout.cshtml.g.cs
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\7.ASP.NET Core MVC\Homeworks-Asp.Net Core MVC\Homework.Class4\Homework.Class4\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\7.ASP.NET Core MVC\Homeworks-Asp.Net Core MVC\Homework.Class4\Homework.Class4\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_PartialProductItem.cshtml.g.cs
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\7.ASP.NET Core MVC\Homeworks-Asp.Net Core MVC\Homework.Class4\Homework.Class4\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\7.ASP.NET Core MVC\Homeworks-Asp.Net Core MVC\Homework.Class4\Homework.Class4\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\7.ASP.NET Core MVC\Homeworks-Asp.Net Core MVC\Homework.Class4\Homework.Class4\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\7.ASP.NET Core MVC\Homeworks-Asp.Net Core MVC\Homework.Class4\Homework.Class4\obj\Debug\netcoreapp2.1\Homework.Class4.RazorTargetAssemblyInfo.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\7.ASP.NET Core MVC\Homeworks-Asp.Net Core MVC\Homework.Class4\Homework.Class4\obj\Debug\netcoreapp2.1\Homework.Class4.RazorTargetAssemblyInfo.cs
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\7.ASP.NET Core MVC\Homeworks-Asp.Net Core MVC\Homework.Class4\Homework.Class4\obj\Debug\netcoreapp2.1\Homework.Class4.Views.pdb
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\7.ASP.NET Core MVC\Homeworks-Asp.Net Core MVC\Homework.Class4\Homework.Class4\obj\Debug\netcoreapp2.1\Homework.Class4.dll
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\7.ASP.NET Core MVC\Homeworks-Asp.Net Core MVC\Homework.Class4\Homework.Class4\obj\Debug\netcoreapp2.1\Homework.Class4.pdb
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\7.ASP.NET Core MVC\Homeworks-Asp.Net Core MVC\Homework.Class4\Homework.Class4\obj\Debug\netcoreapp2.1\Homework.Class4.genruntimeconfig.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\7.ASP.NET Core MVC\Homeworks-Asp.Net Core MVC\Homework.Class4\Homework.Class4\obj\Debug\netcoreapp2.1\Homework.Class4.csproj.CopyComplete
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\7.ASP.NET Core MVC\Homeworks-Asp.Net Core MVC\Homework.Class4\Homework.Class4\obj\Debug\netcoreapp2.1\Homework.Class4.csproj.CoreCompileInputs.cache

@@ -1,0 +1,13 @@
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Class6-2 refractured\Class6-2 refractured\bin\Debug\netcoreapp3.1\Class6-2 refractured.exe
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Class6-2 refractured\Class6-2 refractured\bin\Debug\netcoreapp3.1\Class6-2 refractured.deps.json
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Class6-2 refractured\Class6-2 refractured\bin\Debug\netcoreapp3.1\Class6-2 refractured.runtimeconfig.json
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Class6-2 refractured\Class6-2 refractured\bin\Debug\netcoreapp3.1\Class6-2 refractured.runtimeconfig.dev.json
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Class6-2 refractured\Class6-2 refractured\bin\Debug\netcoreapp3.1\Class6-2 refractured.dll
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Class6-2 refractured\Class6-2 refractured\bin\Debug\netcoreapp3.1\Class6-2 refractured.pdb
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Class6-2 refractured\Class6-2 refractured\obj\Debug\netcoreapp3.1\Class6-2 refractured.csprojAssemblyReference.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Class6-2 refractured\Class6-2 refractured\obj\Debug\netcoreapp3.1\Class6-2 refractured.csproj.CoreCompileInputs.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Class6-2 refractured\Class6-2 refractured\obj\Debug\netcoreapp3.1\Class6-2 refractured.AssemblyInfoInputs.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Class6-2 refractured\Class6-2 refractured\obj\Debug\netcoreapp3.1\Class6-2 refractured.AssemblyInfo.cs
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Class6-2 refractured\Class6-2 refractured\obj\Debug\netcoreapp3.1\Class6-2 refractured.dll
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Class6-2 refractured\Class6-2 refractured\obj\Debug\netcoreapp3.1\Class6-2 refractured.pdb
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Class6-2 refractured\Class6-2 refractured\obj\Debug\netcoreapp3.1\Class6-2 refractured.genruntimeconfig.cache

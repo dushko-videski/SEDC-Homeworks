@@ -1,0 +1,15 @@
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Homeworks-Exercises\Class11.Exercise.SerializingDeserializing\Class11.Exercise\bin\Debug\netcoreapp3.1\Class11.Exercise.exe
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Homeworks-Exercises\Class11.Exercise.SerializingDeserializing\Class11.Exercise\obj\Debug\netcoreapp3.1\Class11.Exercise.csprojAssemblyReference.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Homeworks-Exercises\Class11.Exercise.SerializingDeserializing\Class11.Exercise\obj\Debug\netcoreapp3.1\Class11.Exercise.AssemblyInfoInputs.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Homeworks-Exercises\Class11.Exercise.SerializingDeserializing\Class11.Exercise\obj\Debug\netcoreapp3.1\Class11.Exercise.AssemblyInfo.cs
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Homeworks-Exercises\Class11.Exercise.SerializingDeserializing\Class11.Exercise\bin\Debug\netcoreapp3.1\Class11.Exercise.deps.json
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Homeworks-Exercises\Class11.Exercise.SerializingDeserializing\Class11.Exercise\bin\Debug\netcoreapp3.1\Class11.Exercise.runtimeconfig.json
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Homeworks-Exercises\Class11.Exercise.SerializingDeserializing\Class11.Exercise\bin\Debug\netcoreapp3.1\Class11.Exercise.runtimeconfig.dev.json
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Homeworks-Exercises\Class11.Exercise.SerializingDeserializing\Class11.Exercise\bin\Debug\netcoreapp3.1\Class11.Exercise.dll
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Homeworks-Exercises\Class11.Exercise.SerializingDeserializing\Class11.Exercise\bin\Debug\netcoreapp3.1\Class11.Exercise.pdb
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Homeworks-Exercises\Class11.Exercise.SerializingDeserializing\Class11.Exercise\obj\Debug\netcoreapp3.1\Class11.Exercise.dll
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Homeworks-Exercises\Class11.Exercise.SerializingDeserializing\Class11.Exercise\obj\Debug\netcoreapp3.1\Class11.Exercise.pdb
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Homeworks-Exercises\Class11.Exercise.SerializingDeserializing\Class11.Exercise\obj\Debug\netcoreapp3.1\Class11.Exercise.genruntimeconfig.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Homeworks-Exercises\Class11.Exercise.SerializingDeserializing\Class11.Exercise\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Homeworks-Exercises\Class11.Exercise.SerializingDeserializing\Class11.Exercise\obj\Debug\netcoreapp3.1\Class11.Exercise.csproj.CoreCompileInputs.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Homeworks-Exercises\Class11.Exercise.SerializingDeserializing\Class11.Exercise\obj\Debug\netcoreapp3.1\Class11.Exercise.csproj.CopyComplete

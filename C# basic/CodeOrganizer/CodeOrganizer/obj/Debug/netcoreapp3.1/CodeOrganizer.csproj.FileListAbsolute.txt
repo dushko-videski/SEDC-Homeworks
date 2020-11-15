@@ -1,0 +1,13 @@
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\CodeOrganizer\CodeOrganizer\bin\Debug\netcoreapp3.1\CodeOrganizer.exe
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\CodeOrganizer\CodeOrganizer\bin\Debug\netcoreapp3.1\CodeOrganizer.deps.json
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\CodeOrganizer\CodeOrganizer\bin\Debug\netcoreapp3.1\CodeOrganizer.runtimeconfig.json
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\CodeOrganizer\CodeOrganizer\bin\Debug\netcoreapp3.1\CodeOrganizer.runtimeconfig.dev.json
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\CodeOrganizer\CodeOrganizer\bin\Debug\netcoreapp3.1\CodeOrganizer.dll
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\CodeOrganizer\CodeOrganizer\bin\Debug\netcoreapp3.1\CodeOrganizer.pdb
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\CodeOrganizer\CodeOrganizer\obj\Debug\netcoreapp3.1\CodeOrganizer.csprojAssemblyReference.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\CodeOrganizer\CodeOrganizer\obj\Debug\netcoreapp3.1\CodeOrganizer.csproj.CoreCompileInputs.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\CodeOrganizer\CodeOrganizer\obj\Debug\netcoreapp3.1\CodeOrganizer.AssemblyInfoInputs.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\CodeOrganizer\CodeOrganizer\obj\Debug\netcoreapp3.1\CodeOrganizer.AssemblyInfo.cs
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\CodeOrganizer\CodeOrganizer\obj\Debug\netcoreapp3.1\CodeOrganizer.dll
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\CodeOrganizer\CodeOrganizer\obj\Debug\netcoreapp3.1\CodeOrganizer.pdb
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\CodeOrganizer\CodeOrganizer\obj\Debug\netcoreapp3.1\CodeOrganizer.genruntimeconfig.cache

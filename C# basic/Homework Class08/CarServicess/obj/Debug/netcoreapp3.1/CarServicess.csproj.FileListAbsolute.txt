@@ -1,0 +1,9 @@
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Homework Class08\CarServicess\bin\Debug\netcoreapp3.1\CarServicess.deps.json
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Homework Class08\CarServicess\bin\Debug\netcoreapp3.1\CarServicess.dll
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Homework Class08\CarServicess\bin\Debug\netcoreapp3.1\CarServicess.pdb
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Homework Class08\CarServicess\obj\Debug\netcoreapp3.1\CarServicess.csprojAssemblyReference.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Homework Class08\CarServicess\obj\Debug\netcoreapp3.1\CarServicess.csproj.CoreCompileInputs.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Homework Class08\CarServicess\obj\Debug\netcoreapp3.1\CarServicess.AssemblyInfoInputs.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Homework Class08\CarServicess\obj\Debug\netcoreapp3.1\CarServicess.AssemblyInfo.cs
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Homework Class08\CarServicess\obj\Debug\netcoreapp3.1\CarServicess.dll
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Homework Class08\CarServicess\obj\Debug\netcoreapp3.1\CarServicess.pdb

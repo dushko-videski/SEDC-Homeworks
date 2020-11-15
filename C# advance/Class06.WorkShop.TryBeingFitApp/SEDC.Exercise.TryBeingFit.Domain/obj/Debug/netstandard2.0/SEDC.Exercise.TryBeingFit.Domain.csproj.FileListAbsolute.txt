@@ -1,0 +1,9 @@
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\skwd8-06-csharpadv\g5\Class06\SEDC.Exercise.TryBeingFitApp\SEDC.Exercise.TryBeingFit.Domain\obj\Debug\netstandard2.0\SEDC.Exercise.TryBeingFit.Domain.csproj.CoreCompileInputs.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\skwd8-06-csharpadv\g5\Class06\SEDC.Exercise.TryBeingFitApp\SEDC.Exercise.TryBeingFit.Domain\obj\Debug\netstandard2.0\SEDC.Exercise.TryBeingFit.Domain.AssemblyInfoInputs.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\skwd8-06-csharpadv\g5\Class06\SEDC.Exercise.TryBeingFitApp\SEDC.Exercise.TryBeingFit.Domain\obj\Debug\netstandard2.0\SEDC.Exercise.TryBeingFit.Domain.AssemblyInfo.cs
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\skwd8-06-csharpadv\g5\Class06\SEDC.Exercise.TryBeingFitApp\SEDC.Exercise.TryBeingFit.Domain\bin\Debug\netstandard2.0\SEDC.Exercise.TryBeingFit.Domain.deps.json
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\skwd8-06-csharpadv\g5\Class06\SEDC.Exercise.TryBeingFitApp\SEDC.Exercise.TryBeingFit.Domain\bin\Debug\netstandard2.0\SEDC.Exercise.TryBeingFit.Domain.dll
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\skwd8-06-csharpadv\g5\Class06\SEDC.Exercise.TryBeingFitApp\SEDC.Exercise.TryBeingFit.Domain\bin\Debug\netstandard2.0\SEDC.Exercise.TryBeingFit.Domain.pdb
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\skwd8-06-csharpadv\g5\Class06\SEDC.Exercise.TryBeingFitApp\SEDC.Exercise.TryBeingFit.Domain\obj\Debug\netstandard2.0\SEDC.Exercise.TryBeingFit.Domain.dll
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\skwd8-06-csharpadv\g5\Class06\SEDC.Exercise.TryBeingFitApp\SEDC.Exercise.TryBeingFit.Domain\obj\Debug\netstandard2.0\SEDC.Exercise.TryBeingFit.Domain.pdb
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\skwd8-06-csharpadv\g5\Class06\SEDC.Exercise.TryBeingFitApp\SEDC.Exercise.TryBeingFit.Domain\obj\Debug\netstandard2.0\SEDC.Exercise.TryBeingFit.Domain.csprojAssemblyReference.cache

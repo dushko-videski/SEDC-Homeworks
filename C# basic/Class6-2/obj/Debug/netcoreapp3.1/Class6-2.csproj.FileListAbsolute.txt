@@ -1,0 +1,13 @@
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Class6-2\bin\Debug\netcoreapp3.1\Class6-2.exe
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Class6-2\bin\Debug\netcoreapp3.1\Class6-2.deps.json
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Class6-2\bin\Debug\netcoreapp3.1\Class6-2.runtimeconfig.json
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Class6-2\bin\Debug\netcoreapp3.1\Class6-2.runtimeconfig.dev.json
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Class6-2\bin\Debug\netcoreapp3.1\Class6-2.dll
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Class6-2\bin\Debug\netcoreapp3.1\Class6-2.pdb
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Class6-2\obj\Debug\netcoreapp3.1\Class6-2.csprojAssemblyReference.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Class6-2\obj\Debug\netcoreapp3.1\Class6-2.csproj.CoreCompileInputs.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Class6-2\obj\Debug\netcoreapp3.1\Class6-2.AssemblyInfoInputs.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Class6-2\obj\Debug\netcoreapp3.1\Class6-2.AssemblyInfo.cs
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Class6-2\obj\Debug\netcoreapp3.1\Class6-2.dll
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Class6-2\obj\Debug\netcoreapp3.1\Class6-2.pdb
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Class6-2\obj\Debug\netcoreapp3.1\Class6-2.genruntimeconfig.cache

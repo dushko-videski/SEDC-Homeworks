@@ -1,0 +1,13 @@
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Homeworks-Exercises\Class07.LinqExercise\Class07.LinqExercise\bin\Debug\netcoreapp3.1\Class07.LinqExercise.exe
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Homeworks-Exercises\Class07.LinqExercise\Class07.LinqExercise\bin\Debug\netcoreapp3.1\Class07.LinqExercise.deps.json
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Homeworks-Exercises\Class07.LinqExercise\Class07.LinqExercise\bin\Debug\netcoreapp3.1\Class07.LinqExercise.runtimeconfig.json
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Homeworks-Exercises\Class07.LinqExercise\Class07.LinqExercise\bin\Debug\netcoreapp3.1\Class07.LinqExercise.runtimeconfig.dev.json
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Homeworks-Exercises\Class07.LinqExercise\Class07.LinqExercise\bin\Debug\netcoreapp3.1\Class07.LinqExercise.dll
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Homeworks-Exercises\Class07.LinqExercise\Class07.LinqExercise\bin\Debug\netcoreapp3.1\Class07.LinqExercise.pdb
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Homeworks-Exercises\Class07.LinqExercise\Class07.LinqExercise\obj\Debug\netcoreapp3.1\Class07.LinqExercise.csprojAssemblyReference.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Homeworks-Exercises\Class07.LinqExercise\Class07.LinqExercise\obj\Debug\netcoreapp3.1\Class07.LinqExercise.csproj.CoreCompileInputs.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Homeworks-Exercises\Class07.LinqExercise\Class07.LinqExercise\obj\Debug\netcoreapp3.1\Class07.LinqExercise.AssemblyInfoInputs.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Homeworks-Exercises\Class07.LinqExercise\Class07.LinqExercise\obj\Debug\netcoreapp3.1\Class07.LinqExercise.AssemblyInfo.cs
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Homeworks-Exercises\Class07.LinqExercise\Class07.LinqExercise\obj\Debug\netcoreapp3.1\Class07.LinqExercise.dll
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Homeworks-Exercises\Class07.LinqExercise\Class07.LinqExercise\obj\Debug\netcoreapp3.1\Class07.LinqExercise.pdb
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Homeworks-Exercises\Class07.LinqExercise\Class07.LinqExercise\obj\Debug\netcoreapp3.1\Class07.LinqExercise.genruntimeconfig.cache

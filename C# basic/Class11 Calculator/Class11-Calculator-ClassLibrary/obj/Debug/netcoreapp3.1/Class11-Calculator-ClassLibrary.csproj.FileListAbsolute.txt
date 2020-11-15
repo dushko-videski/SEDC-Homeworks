@@ -1,0 +1,8 @@
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\from Classes\Class11-Calculator-ClassLibrary\bin\Debug\netcoreapp3.1\Class11-Calculator-ClassLibrary.deps.json
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\from Classes\Class11-Calculator-ClassLibrary\bin\Debug\netcoreapp3.1\Class11-Calculator-ClassLibrary.dll
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\from Classes\Class11-Calculator-ClassLibrary\bin\Debug\netcoreapp3.1\Class11-Calculator-ClassLibrary.pdb
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\from Classes\Class11-Calculator-ClassLibrary\obj\Debug\netcoreapp3.1\Class11-Calculator-ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\from Classes\Class11-Calculator-ClassLibrary\obj\Debug\netcoreapp3.1\Class11-Calculator-ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\from Classes\Class11-Calculator-ClassLibrary\obj\Debug\netcoreapp3.1\Class11-Calculator-ClassLibrary.AssemblyInfo.cs
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\from Classes\Class11-Calculator-ClassLibrary\obj\Debug\netcoreapp3.1\Class11-Calculator-ClassLibrary.dll
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\from Classes\Class11-Calculator-ClassLibrary\obj\Debug\netcoreapp3.1\Class11-Calculator-ClassLibrary.pdb

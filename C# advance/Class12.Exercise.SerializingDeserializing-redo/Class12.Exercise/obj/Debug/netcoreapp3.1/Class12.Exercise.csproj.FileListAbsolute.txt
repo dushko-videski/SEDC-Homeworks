@@ -1,0 +1,4 @@
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Homeworks-Exercises\Class12.Exercise.SerializingDeserializing-redo\Class12.Exercise\bin\Debug\netcoreapp3.1\Class12.Exercise.exe
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Homeworks-Exercises\Class12.Exercise.SerializingDeserializing-redo\Class12.Exercise\obj\Debug\netcoreapp3.1\Class12.Exercise.csprojAssemblyReference.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Homeworks-Exercises\Class12.Exercise.SerializingDeserializing-redo\Class12.Exercise\obj\Debug\netcoreapp3.1\Class12.Exercise.AssemblyInfoInputs.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Homeworks-Exercises\Class12.Exercise.SerializingDeserializing-redo\Class12.Exercise\obj\Debug\netcoreapp3.1\Class12.Exercise.AssemblyInfo.cs

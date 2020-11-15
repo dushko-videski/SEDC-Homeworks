@@ -1,0 +1,13 @@
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Class5\bin\Debug\netcoreapp3.1\Class5.exe
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Class5\bin\Debug\netcoreapp3.1\Class5.deps.json
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Class5\bin\Debug\netcoreapp3.1\Class5.runtimeconfig.json
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Class5\bin\Debug\netcoreapp3.1\Class5.runtimeconfig.dev.json
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Class5\bin\Debug\netcoreapp3.1\Class5.dll
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Class5\bin\Debug\netcoreapp3.1\Class5.pdb
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Class5\obj\Debug\netcoreapp3.1\Class5.csprojAssemblyReference.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Class5\obj\Debug\netcoreapp3.1\Class5.csproj.CoreCompileInputs.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Class5\obj\Debug\netcoreapp3.1\Class5.AssemblyInfoInputs.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Class5\obj\Debug\netcoreapp3.1\Class5.AssemblyInfo.cs
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Class5\obj\Debug\netcoreapp3.1\Class5.dll
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Class5\obj\Debug\netcoreapp3.1\Class5.pdb
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Class5\obj\Debug\netcoreapp3.1\Class5.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Homework G6 Class08/1.0.0": {
+        "runtime": {
+          "Homework G6 Class08.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Homework G6 Class08/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

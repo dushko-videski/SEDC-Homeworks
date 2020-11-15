@@ -1,0 +1,16 @@
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Homework Class08\Homework Class08\bin\Debug\netcoreapp3.1\Homework Class08.exe
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Homework Class08\Homework Class08\bin\Debug\netcoreapp3.1\Homework Class08.deps.json
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Homework Class08\Homework Class08\bin\Debug\netcoreapp3.1\Homework Class08.runtimeconfig.json
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Homework Class08\Homework Class08\bin\Debug\netcoreapp3.1\Homework Class08.runtimeconfig.dev.json
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Homework Class08\Homework Class08\bin\Debug\netcoreapp3.1\Homework Class08.dll
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Homework Class08\Homework Class08\bin\Debug\netcoreapp3.1\Homework Class08.pdb
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Homework Class08\Homework Class08\bin\Debug\netcoreapp3.1\CarServicess.dll
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Homework Class08\Homework Class08\bin\Debug\netcoreapp3.1\CarServicess.pdb
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Homework Class08\Homework Class08\obj\Debug\netcoreapp3.1\Homework Class08.csprojAssemblyReference.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Homework Class08\Homework Class08\obj\Debug\netcoreapp3.1\Homework Class08.csproj.CoreCompileInputs.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Homework Class08\Homework Class08\obj\Debug\netcoreapp3.1\Homework Class08.AssemblyInfoInputs.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Homework Class08\Homework Class08\obj\Debug\netcoreapp3.1\Homework Class08.AssemblyInfo.cs
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Homework Class08\Homework Class08\obj\Debug\netcoreapp3.1\Homework Class08.csproj.CopyComplete
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Homework Class08\Homework Class08\obj\Debug\netcoreapp3.1\Homework Class08.dll
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Homework Class08\Homework Class08\obj\Debug\netcoreapp3.1\Homework Class08.pdb
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Homework Class08\Homework Class08\obj\Debug\netcoreapp3.1\Homework Class08.genruntimeconfig.cache

@@ -1,0 +1,46 @@
+C:\Users\dushk\source\repos\Digitron\Digitron\bin\Debug\netcoreapp3.1\Digitron.exe
+C:\Users\dushk\source\repos\Digitron\Digitron\bin\Debug\netcoreapp3.1\Digitron.deps.json
+C:\Users\dushk\source\repos\Digitron\Digitron\bin\Debug\netcoreapp3.1\Digitron.runtimeconfig.json
+C:\Users\dushk\source\repos\Digitron\Digitron\bin\Debug\netcoreapp3.1\Digitron.runtimeconfig.dev.json
+C:\Users\dushk\source\repos\Digitron\Digitron\bin\Debug\netcoreapp3.1\Digitron.dll
+C:\Users\dushk\source\repos\Digitron\Digitron\bin\Debug\netcoreapp3.1\Digitron.pdb
+C:\Users\dushk\source\repos\Digitron\Digitron\bin\Debug\netcoreapp3.1\Class11-Calculator-ClassLibrary.dll
+C:\Users\dushk\source\repos\Digitron\Digitron\obj\Debug\netcoreapp3.1\Digitron.csprojAssemblyReference.cache
+C:\Users\dushk\source\repos\Digitron\Digitron\obj\Debug\netcoreapp3.1\Digitron.csproj.CoreCompileInputs.cache
+C:\Users\dushk\source\repos\Digitron\Digitron\obj\Debug\netcoreapp3.1\Digitron.AssemblyInfoInputs.cache
+C:\Users\dushk\source\repos\Digitron\Digitron\obj\Debug\netcoreapp3.1\Digitron.AssemblyInfo.cs
+C:\Users\dushk\source\repos\Digitron\Digitron\obj\Debug\netcoreapp3.1\Digitron.csproj.CopyComplete
+C:\Users\dushk\source\repos\Digitron\Digitron\obj\Debug\netcoreapp3.1\Digitron.dll
+C:\Users\dushk\source\repos\Digitron\Digitron\obj\Debug\netcoreapp3.1\Digitron.pdb
+C:\Users\dushk\source\repos\Digitron\Digitron\obj\Debug\netcoreapp3.1\Digitron.genruntimeconfig.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Digitron\Digitron\obj\Debug\netcoreapp3.1\Digitron.csproj.CoreCompileInputs.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Digitron\Digitron\obj\Debug\netcoreapp3.1\Digitron.AssemblyInfoInputs.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Digitron\Digitron\obj\Debug\netcoreapp3.1\Digitron.AssemblyInfo.cs
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Digitron\Digitron\obj\Debug\netcoreapp3.1\Digitron.dll
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Digitron\Digitron\obj\Debug\netcoreapp3.1\Digitron.pdb
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Digitron\Digitron\bin\Debug\netcoreapp3.1\Digitron.exe
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Digitron\Digitron\bin\Debug\netcoreapp3.1\Digitron.deps.json
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Digitron\Digitron\bin\Debug\netcoreapp3.1\Digitron.runtimeconfig.json
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Digitron\Digitron\bin\Debug\netcoreapp3.1\Digitron.runtimeconfig.dev.json
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Digitron\Digitron\bin\Debug\netcoreapp3.1\Digitron.dll
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Digitron\Digitron\bin\Debug\netcoreapp3.1\Digitron.pdb
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Digitron\Digitron\obj\Debug\netcoreapp3.1\Digitron.csproj.CopyComplete
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Digitron\Digitron\obj\Debug\netcoreapp3.1\Digitron.genruntimeconfig.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Digitron\Digitron\bin\Debug\netcoreapp3.1\Class11 Calculator-ClassLibrary.dll
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Digitron\Digitron\bin\Debug\netcoreapp3.1\Class11 Calculator-ClassLibrary.pdb
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Digitron\Digitron\obj\Debug\netcoreapp3.1\Digitron.csprojAssemblyReference.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Calculator_Homework\Class11 Calculator\Digitron\Digitron\bin\Debug\netcoreapp3.1\Digitron.exe
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Calculator_Homework\Class11 Calculator\Digitron\Digitron\bin\Debug\netcoreapp3.1\Digitron.deps.json
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Calculator_Homework\Class11 Calculator\Digitron\Digitron\bin\Debug\netcoreapp3.1\Digitron.runtimeconfig.json
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Calculator_Homework\Class11 Calculator\Digitron\Digitron\bin\Debug\netcoreapp3.1\Digitron.runtimeconfig.dev.json
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Calculator_Homework\Class11 Calculator\Digitron\Digitron\bin\Debug\netcoreapp3.1\Digitron.dll
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Calculator_Homework\Class11 Calculator\Digitron\Digitron\bin\Debug\netcoreapp3.1\Digitron.pdb
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Calculator_Homework\Class11 Calculator\Digitron\Digitron\obj\Debug\netcoreapp3.1\Digitron.csproj.CoreCompileInputs.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Calculator_Homework\Class11 Calculator\Digitron\Digitron\obj\Debug\netcoreapp3.1\Digitron.AssemblyInfoInputs.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Calculator_Homework\Class11 Calculator\Digitron\Digitron\obj\Debug\netcoreapp3.1\Digitron.AssemblyInfo.cs
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Calculator_Homework\Class11 Calculator\Digitron\Digitron\obj\Debug\netcoreapp3.1\Digitron.csproj.CopyComplete
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Calculator_Homework\Class11 Calculator\Digitron\Digitron\obj\Debug\netcoreapp3.1\Digitron.dll
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Calculator_Homework\Class11 Calculator\Digitron\Digitron\obj\Debug\netcoreapp3.1\Digitron.pdb
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Calculator_Homework\Class11 Calculator\Digitron\Digitron\obj\Debug\netcoreapp3.1\Digitron.genruntimeconfig.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Calculator_Homework\Class11 Calculator\Digitron\Digitron\bin\Debug\netcoreapp3.1\Class11 Calculator-ClassLibrary.dll
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Calculator_Homework\Class11 Calculator\Digitron\Digitron\bin\Debug\netcoreapp3.1\Class11 Calculator-ClassLibrary.pdb

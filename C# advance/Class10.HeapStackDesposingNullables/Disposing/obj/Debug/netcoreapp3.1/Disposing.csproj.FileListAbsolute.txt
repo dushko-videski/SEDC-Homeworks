@@ -1,0 +1,39 @@
+C:\Users\dushk\source\repos\ManagingResources\Disposing\bin\Debug\netcoreapp3.1\Disposing.exe
+C:\Users\dushk\source\repos\ManagingResources\Disposing\bin\Debug\netcoreapp3.1\Disposing.deps.json
+C:\Users\dushk\source\repos\ManagingResources\Disposing\bin\Debug\netcoreapp3.1\Disposing.runtimeconfig.json
+C:\Users\dushk\source\repos\ManagingResources\Disposing\bin\Debug\netcoreapp3.1\Disposing.runtimeconfig.dev.json
+C:\Users\dushk\source\repos\ManagingResources\Disposing\bin\Debug\netcoreapp3.1\Disposing.dll
+C:\Users\dushk\source\repos\ManagingResources\Disposing\bin\Debug\netcoreapp3.1\Disposing.pdb
+C:\Users\dushk\source\repos\ManagingResources\Disposing\obj\Debug\netcoreapp3.1\Disposing.csprojAssemblyReference.cache
+C:\Users\dushk\source\repos\ManagingResources\Disposing\obj\Debug\netcoreapp3.1\Disposing.AssemblyInfoInputs.cache
+C:\Users\dushk\source\repos\ManagingResources\Disposing\obj\Debug\netcoreapp3.1\Disposing.AssemblyInfo.cs
+C:\Users\dushk\source\repos\ManagingResources\Disposing\obj\Debug\netcoreapp3.1\Disposing.csproj.CoreCompileInputs.cache
+C:\Users\dushk\source\repos\ManagingResources\Disposing\obj\Debug\netcoreapp3.1\Disposing.dll
+C:\Users\dushk\source\repos\ManagingResources\Disposing\obj\Debug\netcoreapp3.1\Disposing.pdb
+C:\Users\dushk\source\repos\ManagingResources\Disposing\obj\Debug\netcoreapp3.1\Disposing.genruntimeconfig.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Class10.HeapStackDesposingNullables\Disposing\bin\Debug\netcoreapp3.1\Disposing.exe
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Class10.HeapStackDesposingNullables\Disposing\bin\Debug\netcoreapp3.1\Disposing.deps.json
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Class10.HeapStackDesposingNullables\Disposing\bin\Debug\netcoreapp3.1\Disposing.runtimeconfig.json
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Class10.HeapStackDesposingNullables\Disposing\bin\Debug\netcoreapp3.1\Disposing.runtimeconfig.dev.json
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Class10.HeapStackDesposingNullables\Disposing\bin\Debug\netcoreapp3.1\Disposing.dll
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Class10.HeapStackDesposingNullables\Disposing\bin\Debug\netcoreapp3.1\Disposing.pdb
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Class10.HeapStackDesposingNullables\Disposing\obj\Debug\netcoreapp3.1\Disposing.csprojAssemblyReference.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Class10.HeapStackDesposingNullables\Disposing\obj\Debug\netcoreapp3.1\Disposing.AssemblyInfoInputs.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Class10.HeapStackDesposingNullables\Disposing\obj\Debug\netcoreapp3.1\Disposing.AssemblyInfo.cs
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Class10.HeapStackDesposingNullables\Disposing\obj\Debug\netcoreapp3.1\Disposing.csproj.CoreCompileInputs.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Class10.HeapStackDesposingNullables\Disposing\obj\Debug\netcoreapp3.1\Disposing.dll
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Class10.HeapStackDesposingNullables\Disposing\obj\Debug\netcoreapp3.1\Disposing.pdb
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Class10.HeapStackDesposingNullables\Disposing\obj\Debug\netcoreapp3.1\Disposing.genruntimeconfig.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Homeworks-Exercises\Class10.HeapStackDesposingNullables\Disposing\bin\Debug\netcoreapp3.1\Disposing.exe
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Homeworks-Exercises\Class10.HeapStackDesposingNullables\Disposing\bin\Debug\netcoreapp3.1\Disposing.deps.json
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Homeworks-Exercises\Class10.HeapStackDesposingNullables\Disposing\bin\Debug\netcoreapp3.1\Disposing.runtimeconfig.json
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Homeworks-Exercises\Class10.HeapStackDesposingNullables\Disposing\bin\Debug\netcoreapp3.1\Disposing.runtimeconfig.dev.json
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Homeworks-Exercises\Class10.HeapStackDesposingNullables\Disposing\bin\Debug\netcoreapp3.1\Disposing.dll
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Homeworks-Exercises\Class10.HeapStackDesposingNullables\Disposing\bin\Debug\netcoreapp3.1\Disposing.pdb
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Homeworks-Exercises\Class10.HeapStackDesposingNullables\Disposing\obj\Debug\netcoreapp3.1\Disposing.AssemblyInfoInputs.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Homeworks-Exercises\Class10.HeapStackDesposingNullables\Disposing\obj\Debug\netcoreapp3.1\Disposing.AssemblyInfo.cs
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Homeworks-Exercises\Class10.HeapStackDesposingNullables\Disposing\obj\Debug\netcoreapp3.1\Disposing.csproj.CoreCompileInputs.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Homeworks-Exercises\Class10.HeapStackDesposingNullables\Disposing\obj\Debug\netcoreapp3.1\Disposing.dll
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Homeworks-Exercises\Class10.HeapStackDesposingNullables\Disposing\obj\Debug\netcoreapp3.1\Disposing.pdb
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Homeworks-Exercises\Class10.HeapStackDesposingNullables\Disposing\obj\Debug\netcoreapp3.1\Disposing.genruntimeconfig.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Advance\Homeworks-Exercises\Class10.HeapStackDesposingNullables\Disposing\obj\Debug\netcoreapp3.1\Disposing.csprojAssemblyReference.cache

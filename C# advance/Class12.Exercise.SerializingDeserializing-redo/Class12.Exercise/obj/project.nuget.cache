@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3lPMEm7nccdBxmt2daHgy4ugDyw8B1xDKyR9UkVmjNl2yCVlbVNlCfOq0ChtD1Zymc2Q23wTOYtRqM4DD7iMXw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dushk\\OneDrive\\Desktop\\SEAVUS\\C# Advance\\Homeworks-Exercises\\Class12.Exercise.SerializingDeserializing-redo\\Class12.Exercise\\Class12.Exercise.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dushk\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

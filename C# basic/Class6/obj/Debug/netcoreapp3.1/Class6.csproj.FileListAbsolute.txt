@@ -1,0 +1,13 @@
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Class6\bin\Debug\netcoreapp3.1\Class6.exe
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Class6\bin\Debug\netcoreapp3.1\Class6.deps.json
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Class6\bin\Debug\netcoreapp3.1\Class6.runtimeconfig.json
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Class6\bin\Debug\netcoreapp3.1\Class6.runtimeconfig.dev.json
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Class6\bin\Debug\netcoreapp3.1\Class6.dll
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Class6\bin\Debug\netcoreapp3.1\Class6.pdb
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Class6\obj\Debug\netcoreapp3.1\Class6.csproj.CoreCompileInputs.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Class6\obj\Debug\netcoreapp3.1\Class6.AssemblyInfoInputs.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Class6\obj\Debug\netcoreapp3.1\Class6.AssemblyInfo.cs
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Class6\obj\Debug\netcoreapp3.1\Class6.dll
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Class6\obj\Debug\netcoreapp3.1\Class6.pdb
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Class6\obj\Debug\netcoreapp3.1\Class6.genruntimeconfig.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Class6\obj\Debug\netcoreapp3.1\Class6.csprojAssemblyReference.cache

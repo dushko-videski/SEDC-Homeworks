@@ -1,0 +1,16 @@
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Last-Homeworks\Class15, Admin\FakeFacebook\bin\Debug\netcoreapp3.1\FakeFacebook.exe
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Last-Homeworks\Class15, Admin\FakeFacebook\bin\Debug\netcoreapp3.1\FakeFacebook.deps.json
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Last-Homeworks\Class15, Admin\FakeFacebook\bin\Debug\netcoreapp3.1\FakeFacebook.runtimeconfig.json
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Last-Homeworks\Class15, Admin\FakeFacebook\bin\Debug\netcoreapp3.1\FakeFacebook.runtimeconfig.dev.json
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Last-Homeworks\Class15, Admin\FakeFacebook\bin\Debug\netcoreapp3.1\FakeFacebook.dll
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Last-Homeworks\Class15, Admin\FakeFacebook\bin\Debug\netcoreapp3.1\FakeFacebook.pdb
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Last-Homeworks\Class15, Admin\FakeFacebook\bin\Debug\netcoreapp3.1\WebApi.dll
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Last-Homeworks\Class15, Admin\FakeFacebook\bin\Debug\netcoreapp3.1\WebApi.pdb
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Last-Homeworks\Class15, Admin\FakeFacebook\obj\Debug\netcoreapp3.1\FakeFacebook.csprojAssemblyReference.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Last-Homeworks\Class15, Admin\FakeFacebook\obj\Debug\netcoreapp3.1\FakeFacebook.csproj.CoreCompileInputs.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Last-Homeworks\Class15, Admin\FakeFacebook\obj\Debug\netcoreapp3.1\FakeFacebook.AssemblyInfoInputs.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Last-Homeworks\Class15, Admin\FakeFacebook\obj\Debug\netcoreapp3.1\FakeFacebook.AssemblyInfo.cs
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Last-Homeworks\Class15, Admin\FakeFacebook\obj\Debug\netcoreapp3.1\FakeFacebook.csproj.CopyComplete
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Last-Homeworks\Class15, Admin\FakeFacebook\obj\Debug\netcoreapp3.1\FakeFacebook.dll
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Last-Homeworks\Class15, Admin\FakeFacebook\obj\Debug\netcoreapp3.1\FakeFacebook.pdb
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Last-Homeworks\Class15, Admin\FakeFacebook\obj\Debug\netcoreapp3.1\FakeFacebook.genruntimeconfig.cache

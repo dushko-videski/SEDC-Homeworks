@@ -1,0 +1,13 @@
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Class5, G3, od Goce kod\bin\Debug\netcoreapp3.1\Class5, G3, od Goce kod.exe
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Class5, G3, od Goce kod\bin\Debug\netcoreapp3.1\Class5, G3, od Goce kod.deps.json
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Class5, G3, od Goce kod\bin\Debug\netcoreapp3.1\Class5, G3, od Goce kod.runtimeconfig.json
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Class5, G3, od Goce kod\bin\Debug\netcoreapp3.1\Class5, G3, od Goce kod.runtimeconfig.dev.json
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Class5, G3, od Goce kod\bin\Debug\netcoreapp3.1\Class5, G3, od Goce kod.dll
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Class5, G3, od Goce kod\bin\Debug\netcoreapp3.1\Class5, G3, od Goce kod.pdb
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Class5, G3, od Goce kod\obj\Debug\netcoreapp3.1\Class5, G3, od Goce kod.csproj.CoreCompileInputs.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Class5, G3, od Goce kod\obj\Debug\netcoreapp3.1\Class5, G3, od Goce kod.AssemblyInfoInputs.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Class5, G3, od Goce kod\obj\Debug\netcoreapp3.1\Class5, G3, od Goce kod.AssemblyInfo.cs
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Class5, G3, od Goce kod\obj\Debug\netcoreapp3.1\Class5, G3, od Goce kod.dll
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Class5, G3, od Goce kod\obj\Debug\netcoreapp3.1\Class5, G3, od Goce kod.pdb
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Class5, G3, od Goce kod\obj\Debug\netcoreapp3.1\Class5, G3, od Goce kod.genruntimeconfig.cache
+C:\Users\dushk\OneDrive\Desktop\SEAVUS\C# Basic\Homework\Class5, G3, od Goce kod\obj\Debug\netcoreapp3.1\Class5, G3, od Goce kod.csprojAssemblyReference.cache
